@@ -1,0 +1,12 @@
+# Ignore model and large dataset files
+*.h5
+*.csv
+
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.env
+
+# IDE-specific ignores
+.idea/
+.vscode/
