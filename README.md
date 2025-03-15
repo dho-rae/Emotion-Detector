@@ -52,8 +52,8 @@ Predicted Emotion: Happy 😊
 ```
 
 ## **Tech Stack**
-Programming Language: Python
-Deep Learning Framework: TensorFlow/Keras
-Computer Vision: OpenCV
-GUI Framework: Tkinter
-Data Handling: Pandas, NumPy, Pillow
+- Programming Language: Python
+- Deep Learning Framework: TensorFlow/Keras
+- Computer Vision: OpenCV
+- GUI Framework: Tkinter
+- Data Handling: Pandas, NumPy, Pillow
